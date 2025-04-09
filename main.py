@@ -384,7 +384,7 @@ if __name__ == "__main__":
     # --- Combine Data ---
     # Choose the target frequency for your model (e.g., '1h')
     # This should match the frequency of your primary prediction target (e.g., 1h BTC price)
-    target_prediction_frequency = '1m'
+    target_prediction_frequency = '1min'
     final_combined_df = combine_dataframes(all_fetched_data, target_prediction_frequency)
 
     # --- Save or Use Data ---
