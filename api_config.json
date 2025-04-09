@@ -1,0 +1,7 @@
+{
+    "binance": {"apiKey": "coFeS7tYCuRgv2eHEGIoTdCwYFTdD6mgEmmBzSePugZIhc7uNQ7lNJngcMqzbCT0", "secret": "YozwoSPaqD7JsAofLgeWEvdlSxSwPplQNLkwNdnvAmTJ2KuGIzjaJU8JFWc56SoC"},
+    "target_symbols": ["BTC/USDT"],
+    "target_timeframes": ["1m", "15m", "1h", "4h", "1d", "3d", "1w"],
+    "start_date": "2021-04-09T00:00:00Z",
+    "end_date": "2024-04-09T23:59:59Z"
+}
